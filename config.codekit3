@@ -23,6 +23,15 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/javascript.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/javascript-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
